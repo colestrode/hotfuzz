@@ -1,0 +1,11 @@
+{
+  "name": "hotfuzz",
+  "version": "0.0.1",
+  "description": "Hot-swabble javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Cole Furfaro-Strode",
+  "license": "ISC"
+}
